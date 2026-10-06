@@ -25,19 +25,19 @@ These companies have analytics, BI, product, operations or data roles with major
 |---|---|---|---|---|
 | **Microsoft** | Product Analytics, Power BI | Hyderabad / Bengaluru | 🟢 Yes |https://careers.microsoft.com/|
 | **IBM / Red Hat** | Business Analytics, Cognos | Bengaluru | 🟢 Yes |https://www.ibm.com/careers/|
-| **Atlassian** | Product Analytics, Data Science | Bengaluru | 🟢 Yes |
-| **Nutanix** | Business & Product Analytics | Bengaluru / Pune | 🟢 Yes |
-| **Uber** | Marketplace, Ops, City Analytics | Bengaluru / Hyderabad | 🟢 Yes |
-| **Airbnb** | Product Analytics | Bengaluru | 🟢 Yes |
-| **Spotify** | Product, Music, Marketing Analytics | Gurugram | 🟢 Yes |
-| **Booking.com** | Experimentation, Marketing Analytics | Bengaluru | 🟢 Yes |
-| **Stripe** | Business & Risk Analytics | Bengaluru | 🟢 Yes |
-| **PayPal** | Risk, Fraud, Product Analytics | Chennai | 🟢 Yes |
-| **Goldman Sachs** | Business & Risk Analytics | Bengaluru | 🟢 Yes |
-| **JPMorgan Chase** | BI & Risk Analytics | Mumbai | 🟢 Yes |
-| **Morgan Stanley** | Business Analytics & Reporting | Mumbai | 🟢 Yes |
-| **Barclays** | Analytics & Management Information | Pune | 🟢 Yes |
-| **HSBC** | BI & Risk Analytics | Pune | 🟢 Yes |
+| **Atlassian** | Product Analytics, Data Science | Bengaluru | 🟢 Yes |https://www.atlassian.com/company/careers|
+| **Nutanix** | Business & Product Analytics | Bengaluru / Pune | 🟢 Yes |https://www.nutanix.com/company/careers|
+| **Uber** | Marketplace, Ops, City Analytics | Bengaluru / Hyderabad | 🟢 Yes |https://www.uber.com/careers/|
+| **Airbnb** | Product Analytics | Bengaluru | 🟢 Yes |https://careers.airbnb.com/|
+| **Spotify** | Product, Music, Marketing Analytics | Gurugram | 🟢 Yes |https://www.shopify.com/careers
+| **Booking.com** | Experimentation, Marketing Analytics | Bengaluru | 🟢 Yes |https://careers.booking.com/
+| **Stripe** | Business & Risk Analytics | Bengaluru | 🟢 Yes |https://www.shopify.com/careers|
+| **PayPal** | Risk, Fraud, Product Analytics | Chennai | 🟢 Yes |https://careers.pypl.com/|
+| **Goldman Sachs** | Business & Risk Analytics | Bengaluru | 🟢 Yes |https://www.goldmansachs.com/careers/|
+| **JPMorgan Chase** | BI & Risk Analytics | Mumbai | 🟢 Yes |https://careers.jpmorgan.com/
+| **Morgan Stanley** | Business Analytics & Reporting | Mumbai | 🟢 Yes |https://www.morganstanley.com/careers|
+| **Barclays** | Analytics & Management Information | Pune | 🟢 Yes |https://home.barclays/careers/|
+| **HSBC** | BI & Risk Analytics | Pune | 🟢 Yes |https://www.hsbc.com/careers|
 | **Deutsche Bank** | Risk & Business Analytics | Pune | 🟢 Yes |
 | **American Express** | Decision Science & Risk Analytics | Gurugram | 🟢 Yes |
 | **Visa** | Payments Analytics | Bengaluru | 🟢 Yes |
