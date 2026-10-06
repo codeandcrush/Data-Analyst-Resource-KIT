@@ -38,17 +38,17 @@ These companies have analytics, BI, product, operations or data roles with major
 | **Morgan Stanley** | Business Analytics & Reporting | Mumbai | 🟢 Yes |https://www.morganstanley.com/careers|
 | **Barclays** | Analytics & Management Information | Pune | 🟢 Yes |https://home.barclays/careers/|
 | **HSBC** | BI & Risk Analytics | Pune | 🟢 Yes |https://www.hsbc.com/careers|
-| **Deutsche Bank** | Risk & Business Analytics | Pune | 🟢 Yes |
-| **American Express** | Decision Science & Risk Analytics | Gurugram | 🟢 Yes |
-| **Visa** | Payments Analytics | Bengaluru | 🟢 Yes |
-| **Mastercard** | Analytics & Data Products | Pune | 🟢 Yes |
-| **SAP** | Enterprise Analytics | Bengaluru | 🟢 Yes |
-| **Salesforce** | Business & Product Analytics | Hyderabad | 🟢 Yes |
-| **ServiceNow** | Business & Product Analytics | Hyderabad | 🟢 Yes |
-| **Adobe** | Product & Marketing Analytics | Noida / Bengaluru | 🟢 Yes |
-| **Databricks** | Data Platform & Analytics | Bengaluru | 🟢 Yes |
-| **Snowflake** | Data Platform & Analytics | Pune | 🟢 Yes |
-| **MongoDB** | Product & Business Analytics | Gurugram | 🟢 Yes |
+| **Deutsche Bank** | Risk & Business Analytics | Pune | 🟢 Yes |https://careers.db.com/|
+| **American Express** | Decision Science & Risk Analytics | Gurugram | 🟢 Yes |https://www.americanexpress.com/en-us/careers/|
+| **Visa** | Payments Analytics | Bengaluru | 🟢 Yes |https://usa.visa.com/careers.html|
+| **Mastercard** | Analytics & Data Products | Pune | 🟢 Yes |https://careers.mastercard.com/|
+| **SAP** | Enterprise Analytics | Bengaluru | 🟢 Yes |https://jobs.sap.com/|
+| **Salesforce** | Business & Product Analytics | Hyderabad | 🟢 Yes |https://jobs.sap.com/|
+| **ServiceNow** | Business & Product Analytics | Hyderabad | 🟢 Yes |https://careers.servicenow.com/"
+| **Adobe** | Product & Marketing Analytics | Noida / Bengaluru | 🟢 Yes |https://careers.adobe.com/|
+| **Databricks** | Data Platform & Analytics | Bengaluru | 🟢 Yes |https://www.databricks.com/company/careers|
+| **Snowflake** | Data Platform & Analytics | Pune | 🟢 Yes |https://careers.snowflake.com/|
+| **MongoDB** | Product & Business Analytics | Gurugram | 🟢 Yes |https://www.mongodb.com/careers|
 
 The source identifies these companies as having analytics-related work and India hubs, with many marked as early-career friendly.
 
